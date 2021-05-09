@@ -1,0 +1,16 @@
+{
+    "personalInfo": {
+        "title": "Mr.",
+        "customerFirstName": "Shubham",
+        "customerLastName": "Sharma",
+        "password": "password1234",
+        "day": "15",
+        "month": "4",
+        "year": "1990",
+        "address1": "MG Road",
+        "city": "Bangalore",
+        "state": "Alaska",
+        "postalCode": "90007",
+        "mobilePhone": "9876543210"
+    }
+}

@@ -1,0 +1,5 @@
+node_modules
+HtmlReports
+package-lock.json
+allure-report
+reports
