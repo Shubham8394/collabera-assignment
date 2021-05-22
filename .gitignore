@@ -3,3 +3,5 @@ HtmlReports
 package-lock.json
 allure-report
 reports
+report
+.tmp
